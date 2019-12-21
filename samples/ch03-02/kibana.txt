@@ -1,0 +1,63 @@
+# 3.2節　検索
+# Elasticsearch Kinaba操作用コマンド集
+
+######################
+# kibana-3-2-1
+# 最初の問い合わせ文
+######################
+
+GET _search
+{
+  "query": {
+    "match_all": {}
+  }
+}
+
+######################
+# kibana-3-2-2
+# 文書の投入
+######################
+
+PUT /names/_doc/1
+{
+    "title": "My Name Is Yamada",
+    "name": {
+        "first": "Taro",
+        "last": "Yamada"
+  },
+    "content": "I love sushi."
+}
+PUT /names/_doc/2
+{
+    "title": "My Name Is Tanaka",
+    "name": {
+        "first": "Jiro",
+        "last": "Tanaka"
+  },
+    "content": "I love soba."
+}
+PUT /names/_doc/3
+{
+    "title": "My Name Is Watanabe",
+    "name": {
+        "first": "Saburo",
+        "last": "Watanabe"
+  },
+    "content": "I love tenpura."
+}
+
+######################
+# kibana-3-2-3
+# 文書の検索
+######################
+
+GET names/_search
+{
+  "query": {
+    "match": {
+      "title": "Tanaka"
+    }
+  }
+}
+
+
