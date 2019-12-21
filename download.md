@@ -9,4 +9,4 @@ Notebookファイルをまとめてダウンロードしたい場合は、次の
 ![](images/download1.png)
 
 3. 「**Download ZIP**」のリンクをクリックします。  
-![](images/download2.png){:height="20px" width="20px"}
+![](images/download2.png)
