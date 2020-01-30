@@ -7,7 +7,7 @@
 
 * [翔泳社のページ](https://www.shoeisha.co.jp/book/detail/9784798142685)
 
-* [アマゾンへのリンク] (https://www.amazon.co.jp/dp/4798142689)
+* [アマゾンへのリンク](https://www.amazon.co.jp/dp/4798142689)
 
 
 * [補足情報](ref.md)
