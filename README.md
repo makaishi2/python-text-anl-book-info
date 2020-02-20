@@ -31,5 +31,7 @@
 
 (fabcross)[翔泳社、Pythonによる自然言語処理の解説書「現場で使える！Python自然言語処理入門」発刊](https://fabcross.jp/news/2019/20191226_syoeisya_pythonnaturallanguage.html)
 
+(水曜Watsonカフェ プレゼン資料) [著者が語る「Python自然言語」](https://speakerdeck.com/makaishi2/pythonzi-ran-yan-yu-chi-shi-2020-0219-3-cf674f8e-e3ef-4dd4-84df-2e58dc81978e)
+
 (著者twitterアカウント) [@makaishi2](https://twitter.com/makaishi2)  
 (注)著者は原則twitterではつぶやきませんが、書籍に関連したつぶやきをretweetで紹介しています  
