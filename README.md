@@ -35,3 +35,9 @@
 
 (著者twitterアカウント) [@makaishi2](https://twitter.com/makaishi2)  
 (注)著者は原則twitterではつぶやきませんが、書籍に関連したつぶやきをretweetで紹介しています  
+
+(著者紹介記事) [AI関連書籍三冊目を出版したIBM赤石雅典に聞く「AIと仕事と執筆」](https://admin.blogs.prd.ibm.event.ibm.com/blogs/solutions/jp-ja/data_science_and_ai_akaishi-san/)  
+勤務先のIBMのブログで紹介されました。
+
+(著書プレゼン資料) [著者が語るPython自然言語処理入門のツボ](https://speakerdeck.com/makaishi2/pythonzi-ran-yan-yu-chi-shi-2020-0219-3-cf674f8e-e3ef-4dd4-84df-2e58dc81978e)  
+社外コミュニティで本書の紹介のために使ったプレゼン資料です。
