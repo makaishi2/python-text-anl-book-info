@@ -42,5 +42,5 @@
 (著書プレゼン資料) [著者が語るPython自然言語処理入門のツボ](https://speakerdeck.com/makaishi2/pythonzi-ran-yan-yu-chi-shi-2020-0219-3-cf674f8e-e3ef-4dd4-84df-2e58dc81978e)  
 社外コミュニティで本書の紹介のために使ったプレゼン資料です。
 
-(江澤さんプレゼン資料) [超入門! Watson Discovery & Watson Knowledge Studio](https://www.slideshare.net/mihoezawa/watson-discovery-knowledge-studio)
+(江澤さんプレゼン資料) [超入門! Watson Discovery & Watson Knowledge Studio](https://www.slideshare.net/mihoezawa/watson-discovery-knowledge-studio)  
 同じ会で共著の江澤さんが使ったプレゼン資料です。
